@@ -1,5 +1,5 @@
 # DataScience_Projects
-Mini projects on Machine Learning and Artificial Intelligence concepts
+In this repository you will find some useful projects on Machine Learning and Artificial Intelligence concepts
 
 Steps to run the code:
 Download the code on your local machine.
